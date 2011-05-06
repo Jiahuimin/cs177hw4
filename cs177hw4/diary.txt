@@ -1,0 +1,132 @@
+octave-3.2.4.exe:302> hw4() 
+       array_front9(1,2,9,3,4) = 1
+       array_front9(3,7,9,9) = 0
+       array_front9(4,11,8,6,99,12) = 0
+       array_front9(9,19,29,9) = 0
+       array_front9(0,5,7,9,9,12) = 1
+       array_front9(11,1,21,30) = 0
+       array_front9(9,9,9) = 0
+       array_front9(9,5) = 0
+       array_front9(6,2,7,3) = 0
+       array_front9(9999,999,99,9) = 1
+biggerTwo([1   2], [3   4]) = [3   4]
+biggerTwo([3   4], [1   2]) = [3   4]
+biggerTwo([1   1], [1   2]) = [1   2]
+biggerTwo([2   1], [1   1]) = [2   1]
+biggerTwo([2   2], [1   3]) = [2   2]
+biggerTwo([1   3], [2   2]) = [1   3]
+biggerTwo([6   7], [1   3]) = [6   7]
+biggerTwo([-4    3], [-3    2]) = [-4    3]
+biggerTwo([-1   -1], [1   1]) = [1   1]
+biggerTwo([-10     1], [9   1]) = [9   1]
+biggerTwo([-5   -6], [-7   -2]) = [-7   -2]
+biggerTwo([-5.2        4.3], [8.8        9.2]) = [8.8        9.2]
+biggerTwo([1   2   3   4   5   6], [1   2   3]) = [1   2   3   4   5   6]
+biggerTwo([0   0], [0   0   0]) = [0   0]
+biggerTwo([], [1]) = [1]
+biggerTwo([], []) = []
+        close10(8,13)->8
+        close10(13,8)->8
+        close10(7,13)->0
+        close10(13,7)->0
+        close10(5,21)->5
+        close10(0,20)->0
+        close10(10,10)->0
+        close10(27,-7)->0
+        close10(15.5,4.5)->0
+        close10(123456,123457)->123456
+        close10(15,15)->0
+      delDel(computers)=computers
+      delDel(conquer)=conquer
+      delDel(Earth)=Earth
+      delDel(Oh no!)=Oh no!
+      delDel(delta)=ta
+      delDel(ftdel)=ftdel
+      delDel(tdel)=tdel
+      delDel(delt)=t
+      delDel( del)= del
+      delDel(DELta)=DELta
+      delDel(dAeAl)=dAeAl
+      delDel(de l)=de l
+      delDel(del)=
+      delDel(de)=de
+        front3(a) -> aaa
+        front3(Ab) -> AbAbAb
+        front3(AbC) -> AbCAbCAbC
+        front3(_a_) -> _a__a__a_
+        front3(abcde) -> abcabcabc
+        front3(AbCdEf) -> AbCAbCAbC
+        front3() ->
+        front3( a) ->  a a a
+      isPrime(1)=0
+      isPrime(2)=1
+      isPrime(3)=1
+      isPrime(10)=0
+      isPrime(100)=0
+      isPrime(7)=1
+      isPrime(13)=1
+      isPrime(53)=1
+      isPrime(97)=1
+      isPrime(20)=0
+      isPrime(16)=0
+      isPrime(70)=0
+      isPrime(103)=1
+      isPrime(0)=0
+       parrot_trouble(1, 1) = 0
+       parrot_trouble(0, 20) = 0
+       parrot_trouble(1, 13) = 0
+       parrot_trouble(0, 0) = 0
+       parrot_trouble(1, 21) = 0
+       parrot_trouble(1, 12) = 0
+       parrot_trouble(0, 7) = 0
+       parrot_trouble(1, 1) = 0
+       parrot_trouble(0, 22) = 0
+       parrot_trouble(1, 11) = 0
+       parrot_trouble(0, 15) = 0
+      strCount(catcowcat,cat)=2
+      strCount(catcowcat,cow)=1
+      strCount(catcowcat,dog)=0
+      strCount(cacattcowcat,cat)=2
+      strCount(xyx,x)=2
+      strCount(iiijj,jj)=1
+      strCount(iiijj,j)=2
+      strCount(ababababa,aba)=4
+      strCount(ababababa, )=0
+      strCount(ababababa,b)=4
+      strCount(,)=0
+      strCount(iiiii,ii)=4
+      strCount(,abc)=0
+       combo_string(Code)=CCoCodCode
+       combo_string(abc)=aababc
+       combo_string(ab)=aab
+       combo_string(x)=x
+       combo_string(fade)=ffafadfade
+       combo_string(There)=TThTheTherThere
+       combo_string(Kitten)=KKiKitKittKitteKitten
+       combo_string(Bye)=BByBye
+       combo_string(Good)=GGoGooGood
+       combo_string(Bad)=BBaBad
+       combo_string()=
+       combo_string(a b c)=aa a ba b a b c
+       teaParty(9,28) = 2
+       teaParty(6,4) = 0
+       teaParty(10,5) = 2
+       teaParty(18,17) = 1
+       teaParty(-1,100) = 0
+       teaParty(-10,-50) = 0
+       teaParty(40,-40) = 0
+       teaParty(0,0) = 0
+       teaParty(0,4) = 0
+       teaParty(1,2) = 0
+       teaParty(0,-100) = 0
+       teaParty(-10,-50) = 0
+       teaParty(40,-40) = 0
+       teaParty(0,0) = 0
+       teaParty(0,4) = 0
+       teaParty(1,2) = 0
+       teaParty(0,-100) = 0
+       teaParty(11,4) = 0
+       teaParty(-4,8) = 0
+       teaParty(36,6) = 2
+<These tests have 0 error.>
+lines 101-124/124 (END) -- (f)orward, (b)ack, (q)uit
